@@ -112,7 +112,7 @@ Fork this repository, create issues, or submit pull requests to suggest changes 
 Engage in discussions about the practical implications of this theorem for AI safety, cognitive science, and symbolic processing.
 
 License
-This work is shared under the [Insert License Type], allowing you to freely use, share, and build upon the theorem as long as proper credit is given and modifications are shared under the same terms.
+This work is shared under the MIT license, allowing you to freely use, share, and build upon the theorem as long as proper credit is given and modifications are shared under the same terms.
 
 Acknowledgments
 We thank all contributors and collaborators for their valuable input in advancing this research. Your involvement is crucial for refining the theory and exploring its real-world applications.
