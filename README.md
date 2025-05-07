@@ -83,6 +83,7 @@ Examples:
 **Tags:** AI Safety, Symbolic Cognition, Phase Collapse, Bottleneck Theory  
 **License:** MIT
 
+<<<<<<< HEAD
 ---
 
 ## 🤝 How You Can Contribute
@@ -97,3 +98,10 @@ Examples:
 ## 📜 License
 
 MIT License — free to use, share, and modify with attribution.
+=======
+License
+This work is shared under the MIT license, allowing you to freely use, share, and build upon the theorem as long as proper credit is given and modifications are shared under the same terms.
+
+Acknowledgments
+We thank all contributors and collaborators for their valuable input in advancing this research. Your involvement is crucial for refining the theory and exploring its real-world applications.
+>>>>>>> 32209d73d0321c9d7e55cfb293308cea0de5a2dc
